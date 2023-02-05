@@ -1,5 +1,9 @@
 # Mybookmarks
 
+### This is the project created in the youtube video for my channel.
+
+- Video: https://youtu.be/gkDg3aVSA0Q
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
